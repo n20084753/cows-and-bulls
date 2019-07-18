@@ -1,0 +1,12 @@
+.custom-code-input {
+    display: inline-block;
+    .ui.labels {
+        text-align: center;    
+    }
+    &.large {
+        .ui.label {
+            font-size: 2.25rem;
+            vertical-align: middle;
+        }
+    }
+}

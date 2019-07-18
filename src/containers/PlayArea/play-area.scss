@@ -1,0 +1,13 @@
+.play-area {
+    .game-input,
+    .recent-guess {
+        text-align: center;
+        &--result {
+            margin-left: 30px;
+        }
+    }
+    .ui.floated.segment,
+    .ui[class*="left floated"].segment {
+        margin: 0;        
+    }    
+}
