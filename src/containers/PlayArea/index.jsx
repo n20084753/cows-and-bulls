@@ -43,12 +43,20 @@ class PlayArea extends Component {
         if (secret.length !== input.length) {
             return;
         }        
-
+        let flag = [];
         for (let i = 0; i< input.length; i++) {
             if (secret[i] === input[i]) {
                 cowsCount++;
-            } else if (secret.indexOf(input[i]) !== -1) {
-                bullsCount++;
+                flag[i] = 'C';
+            } else {
+                for (let j = 0;j< input.length;j++) {
+                    if (secret[j] === input[i]) {
+                        if(flag[j] !== 'C'&&flag[j] !== 'B') {
+                            bullsCount++;
+                            flag[j] = 'B';
+                        }
+                    }
+                }
             }
         }
 

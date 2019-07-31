@@ -33,7 +33,11 @@ class Game extends Component {
         this.state.secretNumber = this.generateRandomNumber(this.state.level);        
     }
 
-    generateRandomNumber = (level) => Math.floor(Math.random() * Math.pow(10, level)) + "";
+    generateRandomNumber = (level) => {
+        var max = Math.pow(10, level);
+        var min = Math.pow(10, level - 1);
+        return Math.floor(Math.random() * (max - min) + min) + "";
+    }
 
     // Sets new level on changing the levels
     setLevel = (level) => this.setState({
