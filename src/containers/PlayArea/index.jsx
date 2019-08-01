@@ -46,6 +46,9 @@ class PlayArea extends Component {
         let flag = [];
         for (let i = 0; i< input.length; i++) {
             if (secret[i] === input[i]) {
+                if (flag[i] === 'B') {
+                    bullsCount--;
+                }
                 cowsCount++;
                 flag[i] = 'C';
             } else {
