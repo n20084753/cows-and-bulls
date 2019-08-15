@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cows-and-bulls/static/css/main.5a95a5f5.chunk.css",
-    "main.js": "/cows-and-bulls/static/js/main.f917bf7f.chunk.js",
-    "main.js.map": "/cows-and-bulls/static/js/main.f917bf7f.chunk.js.map",
+    "main.js": "/cows-and-bulls/static/js/main.0b175a8b.chunk.js",
+    "main.js.map": "/cows-and-bulls/static/js/main.0b175a8b.chunk.js.map",
     "runtime~main.js": "/cows-and-bulls/static/js/runtime~main.390ba036.js",
     "runtime~main.js.map": "/cows-and-bulls/static/js/runtime~main.390ba036.js.map",
     "static/js/2.60db00ca.chunk.js": "/cows-and-bulls/static/js/2.60db00ca.chunk.js",
     "static/js/2.60db00ca.chunk.js.map": "/cows-and-bulls/static/js/2.60db00ca.chunk.js.map",
     "index.html": "/cows-and-bulls/index.html",
-    "precache-manifest.56b572d9925122ad3d6b9594d4cd8095.js": "/cows-and-bulls/precache-manifest.56b572d9925122ad3d6b9594d4cd8095.js",
+    "precache-manifest.8a00fa15adcd2589932a959fdaf68c94.js": "/cows-and-bulls/precache-manifest.8a00fa15adcd2589932a959fdaf68c94.js",
     "service-worker.js": "/cows-and-bulls/service-worker.js",
     "static/css/main.5a95a5f5.chunk.css.map": "/cows-and-bulls/static/css/main.5a95a5f5.chunk.css.map",
     "static/media/cow.png": "/cows-and-bulls/static/media/cow.96c3ef1a.png",

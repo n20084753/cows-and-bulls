@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cows-and-bulls/precache-manifest.56b572d9925122ad3d6b9594d4cd8095.js"
+  "/cows-and-bulls/precache-manifest.8a00fa15adcd2589932a959fdaf68c94.js"
 );
 
 self.addEventListener('message', (event) => {

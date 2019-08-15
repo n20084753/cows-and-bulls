@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb528e0617fa1af5704a92ba326dbb41",
+    "revision": "1809ba32a23772c933b04fe88e8c835e",
     "url": "/cows-and-bulls/index.html"
   },
   {
-    "revision": "72b89f547019c2edb1cf",
+    "revision": "b7f1d510e5b6fe61ac6f",
     "url": "/cows-and-bulls/static/css/main.5a95a5f5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cows-and-bulls/static/js/2.60db00ca.chunk.js"
   },
   {
-    "revision": "72b89f547019c2edb1cf",
-    "url": "/cows-and-bulls/static/js/main.f917bf7f.chunk.js"
+    "revision": "b7f1d510e5b6fe61ac6f",
+    "url": "/cows-and-bulls/static/js/main.0b175a8b.chunk.js"
   },
   {
     "revision": "b020c70d715c78ec8d25",
